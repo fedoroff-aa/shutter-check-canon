@@ -44,6 +44,12 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
 ### Tags:
 - \<TotalShutter\> \- the main number (and the reason why you read this tutorial), which displays shutter count, or in other words how many actuations shutter has made since the release from the conveyor (that's why brand new camera may have 10-100 shots, it's being tested by Canon for quality control)
 - \<TotalRunningTime\> \- the number, which displays how many milliseconds camera have been turned on.
+- \<ErrorList\> \- the list of errors which happened to camera.
+  Typyical errors (for more info please use google, universal advice) inside \<Kind\>\<ID\> tag:
+  - E01 \- problems with lens connection (different reasons, maybe poor connection between lens and body, maybe aperture in lens can't be controlled due to broken ribbon cable inside it)
+  - E02 \- problems with SD Card
+  - E20 \- problems with shutter or mirror or other mechanisms inside camera (dangerous error, you should pay attention if used camera have such type of erorr and more than one case, also good practice is to go to the service, where qualified specialists can check camera's health)
+  - E70 \- problems with overheating (it's not a dangerous error but keep in mind that going to service while buying an expensive thing is a good practice)
 
 ## Epilog
 
