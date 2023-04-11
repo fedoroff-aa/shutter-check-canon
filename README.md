@@ -21,6 +21,9 @@ Or to be more accurate here is a list:
 - Canon EOS R10
 
 ## Preparing
+1. Find or buy ~~or steal~~ SDHC Card (SDXC is not suitable), whose capacity is equal to or lower than 32 GB.
+2. Prepare your SD Card using [this tutorial](https://chdk.fandom.com/wiki/EOScard#[_http://pel.hu/down/EOScard.exe_]).
+3. Download [extend.m](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/extend.m) and [script.req](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/script.req) to your PC and copy them to the root of prepared SD Card.
 
 ## Check your camera's condition (including shutter count)
 
