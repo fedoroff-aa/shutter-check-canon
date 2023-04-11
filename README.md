@@ -1,6 +1,7 @@
 # shutter-check-canon
 
 This guide is written in 2 languages for your convinience: Engligh and Russian.
+Данная статья написана на 2 языках для вашего удобства: на английском и на русском.
 
 # English version
 Here you can see a tutorial how you can check **shutter count** and **history of happend errors** on Canon cameras. You can do it quickly (15 minutes) with my guide for free or pay capitalists if you have much money and think it's okay to pay to check your camera's state. It's useful for people who buy or sell used Canon cameras.
