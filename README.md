@@ -21,13 +21,14 @@ Or to be more accurate here is a list:
 - Canon EOS R6 Mark II,
 - Canon EOS R8,
 - Canon EOS R7,
-- Canon EOS R10
+- Canon EOS R10  
+I have tried this method on my Canon R6.
 
 ## Preparing
 To read the guide and prepare you need about 10 minutes. You also need a PC with Windows.
 Algorithm:
 1. Find or buy ~~or steal~~ SDHC Card (SDXC is not suitable), whose capacity is equal to or lower than 32 GB.
-2. Prepare your SD Card using [this article](https://chdk.fandom.com/wiki/EOScard#[_http://pel.hu/down/EOScard.exe_]). For your convinience I downloaded the [EOScard.exe](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/EOScard.exe) tool, so you can do this even if the site goes down.
+2. Prepare your SD Card using [this article](https://chdk.fandom.com/wiki/EOScard#[_http://pel.hu/down/EOScard.exe_]). For your convinience I downloaded the [EOScard.exe](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/EOScard.exe) tool, so you can do it even if the site goes down.
 3. Download [extend.m](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/extend.m) and [script.req](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/script.req) to your PC and copy them to the root of prepared SD Card.
 
 ## Check your camera's condition (including shutter count)
@@ -73,7 +74,7 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
 - Canon EOS R6 Mark II,
 - Canon EOS R8,
 - Canon EOS R7,
-- Canon EOS R10
+- Canon EOS R10  
 Я попробовал данный способ на своей камере Canon R6.
 
 ## Подготовка
