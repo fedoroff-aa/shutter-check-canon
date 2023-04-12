@@ -81,7 +81,7 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
 Я попробовал данный способ на своей камере Canon R6.
 
 ## Подготовка
-Для прочтения руководства и подготовки вам понадобится около 10 минут. Вам также нужен компьютер с Windows.
+Для прочтения руководства и подготовки вам понадобится около 10 минут. Вам также нужен компьютер с Windows.  
 Алгоритм:
 1. Найдите или купите ~~или украдите~~ Карту SDHC (SDXC не подходит), емкость которой меньше или равна 32 ГБ.
 2. Подготовьте свою SD-карту, используя [эту статью](https://chdk.fandom.com/wiki/EOScard#[_http://pel.hu/down/EOScard.exe_]). Для вашего удобства я скачал [EOScard.exe](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/EOScard.exe), так что вы можете сделать это, даже если указанный сайт упадёт.
