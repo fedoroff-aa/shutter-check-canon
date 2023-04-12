@@ -1,6 +1,6 @@
 # shutter-check-canon
 
-This guide is written in 2 languages for your convinience: Engligh and Russian.
+This guide is written in 2 languages for your convinience: Engligh and Russian.  
 Данная статья написана на 2 языках для вашего удобства: на английском и на русском.
 
 # English version
@@ -14,7 +14,7 @@ Or to be more accurate here is a list:
 - Canon EOS RP,
 - Canon EOS R3,
 - Canon EOS R5,
-- Canon EOS R5 C,
+- Canon EOS R5C,
 - Canon EOS R6,
 - Canon EOS R6 Mark II,
 - Canon EOS R8,
