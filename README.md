@@ -21,7 +21,9 @@ Or to be more accurate here is a list:
 - Canon EOS R6 Mark II,
 - Canon EOS R8,
 - Canon EOS R7,
-- Canon EOS R10  
+- Canon EOS R10
+
+
 I have tried this method on my Canon R6.
 
 ## Preparing
@@ -74,7 +76,8 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
 - Canon EOS R6 Mark II,
 - Canon EOS R8,
 - Canon EOS R7,
-- Canon EOS R10  
+- Canon EOS R10
+
 Я попробовал данный способ на своей камере Canon R6.
 
 ## Подготовка
