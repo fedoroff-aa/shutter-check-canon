@@ -49,7 +49,7 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
   Typyical errors (for more info please use google, universal advice) inside \<Kind\>\<ID\> tag:
   - E01 \- problems with lens connection (different reasons, maybe poor connection between lens and body, maybe aperture in lens can't be controlled due to broken ribbon cable inside it)
   - E02 \- problems with SD Card
-  - E20 \- problems with shutter or mirror or other mechanisms inside camera (dangerous error, you should pay attention if used camera have such type of erorr and more than one case, also good practice is to go to the service, where qualified specialists can check camera's health)
+  - E20 \- problems with shutter or mirror or other mechanisms inside camera (dangerous error, you should pay attention to it if this error occurred more than once, also good practice is to go to the service, where qualified specialists can check camera's health)
   - E70 \- problems with overheating (it's not a dangerous error but keep in mind that going to service while buying an expensive thing is a good practice)
 
 ## Epilog
@@ -100,7 +100,7 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
 - \<TotalRunningTime\> \- число, которое показывает общее время работы камеры в секундах.
 - \<ErrorList\> \- список ошибок, которые произошли с камерой.
 Типичные ошибки (для получения дополнительной информации, пожалуйста, используйте Google, универсальный совет) внутри тега \<Kind\>\<ID\>:
-  - E01 \- проблемы с подключением объектива (разные причины, возможно, плохое соединение между объективом и корпусом, возможно, диафрагмой в объективе невозможно управлять из-за обрыва ленточного кабеля внутри него)
+  - E01 \- проблемы с подключением объектива (разные причины, возможно, плохое соединение между объективом и байонетом или же диафрагмой в объективе невозможно управлять из-за обрыва шлейфа внутри него)
   - E02 \- проблемы с SD-картой
   - E20 \- проблемы со шторкой, зеркалом или другими механизмами внутри камеры (это опасная ошибка, вам следует обратить внимание, если у проверяемой камеры произошло несколько таких ошибок, также рекомендуется обратиться в сервисный центр, где квалифицированные специалисты могут проверить исправность камеры)
   - E70 \- проблемы с перегревом (это не критичная ошибка, но имейте в виду, что лучше обратиться в сервисный центр при покупке дорогой техники для диагностики)
