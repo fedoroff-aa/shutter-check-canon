@@ -42,10 +42,10 @@ For this procedure you need 5 minutes.
 4. Press "SET" button (it is usually used to confirm changes when yo have a dialog window) several times.
 5. Turn off the camera, remove the SD Card.
 
-Well done! In the root of the SD Card you can see a new file with the name like "CAM_INFO.XML". This is what you need. You should copy this file to your PC and open it, for example in Chrome browser (it's good because the formatting is pretty good than in Notepad)
+Well done! In the root of the SD Card you can see a new file with the name like "CAM_INFO.XML". This is what you need. You should copy this file to your PC and open it, for example in Chrome browser (it's good because the formatting is better than in Notepad)
 
 ## Interpretation of results
-As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend Chrome or Edge) or editor. You can see XML markup with different tags. I think that tags are pretty "obvious" but I don't like when such words are written in articles, that's why I will explain some of the tags.
+As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend Chrome or Edge) or editor. You can see XML text with different tags. I think that tags are pretty "obvious" but I don't like when such words are written in articles, that's why I will explain some of the tags.
 
 ### Tags (not all but most important, maybe I will add more tags):
 - \<TotalShutter\> \- the main number (and the reason why you read this tutorial), which displays shutter count, or in other words how many actuations shutter has made since the release from the conveyor (that's why brand new camera may have 10-100 shots, it's being tested by Canon for quality control)
