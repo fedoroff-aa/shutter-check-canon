@@ -6,7 +6,7 @@ This guide is written in 2 languages for your convinience: Engligh and Russian.
 [Русская версия](https://github.com/fedoroff-aa/shutter-check-canon#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)
 
 # English version
-Here you can see a tutorial how you can check **shutter count** and **history of happend errors** on Canon cameras. You can do it quickly (15 minutes) with my guide for free or pay capitalists if you have much money and think it's okay to pay to check your camera's state. It's useful for people who buy or sell used Canon cameras.
+Here you can see a tutorial how you can check **shutter count** and **history of happend errors** on Canon cameras. It is useful for people who buy or sell used Canon cameras and want to be patient about them. You can do it quickly (15 minutes) with my guide for free. Another way is to pay capitalists if you have much money and think it's okay to pay to check your camera's state only once or twice (and probably there won't be displayed errors history) ;)
 
 ## Prerequisites
 Suitable models for check using such a way are all Canon EOS R-series mirrorless cameras (maybe it works for DSLR cameras too, I haven't tried it yet).
