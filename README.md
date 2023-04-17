@@ -57,6 +57,8 @@ As a result you have opened "CAM_INFO.XML" file in browser (I strongly recommend
   - E20 \- problems with shutter or mirror or other mechanisms inside camera (dangerous error, you should pay attention to it if this error occurred more than once, also good practice is to go to the service, where qualified specialists can check camera's health)
   - E70 \- problems with overheating (it's not a dangerous error but keep in mind that going to service while buying an expensive thing is a good practice)
 
+Also you can see the example files: [CAMERA_INFO (good).XML](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/CAM_INFO%20(good).XML) from perfect brand new camera and [CAMERA_INFO (bad).XML](https://github.com/fedoroff-aa/shutter-check-canon/blob/main/CAM_INFO%20(bad).XML) from bad camera with problems (my opinion - it's not recommended to buy it or know the risks and be ready for surprises)
+
 ## Epilog
 
 
